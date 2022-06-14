@@ -6,4 +6,15 @@ img{
     padding-right: 100px;
     padding-left: 100px;
 }
+button.active {
+    height: 40px;
+    width: 40px;
+    border-radius: 5px;
+    background-color: rgb(194, 192, 192) !important;
 
+}
+.active i {
+    border: 2px;
+    color: white !important;
+    background-color: white;
+}
